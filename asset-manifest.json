@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-02.01-lomach/static/css/main.18dd39cb.css",
-    "main.js": "/react-02.01-lomach/static/js/main.a9bd37b6.js",
+    "main.js": "/react-02.01-lomach/static/js/main.e0c1fd83.js",
     "index.html": "/react-02.01-lomach/index.html",
     "main.18dd39cb.css.map": "/react-02.01-lomach/static/css/main.18dd39cb.css.map",
-    "main.a9bd37b6.js.map": "/react-02.01-lomach/static/js/main.a9bd37b6.js.map"
+    "main.e0c1fd83.js.map": "/react-02.01-lomach/static/js/main.e0c1fd83.js.map"
   },
   "entrypoints": [
     "static/css/main.18dd39cb.css",
-    "static/js/main.a9bd37b6.js"
+    "static/js/main.e0c1fd83.js"
   ]
 }
